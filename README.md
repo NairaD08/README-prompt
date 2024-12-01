@@ -90,3 +90,4 @@ If you have any questions about the application, feel free to reach out:
 
 This README template is designed to meet all the specified requirements for a command-line application that generates a professional README.md file. By following the prompts, users can create a comprehensive README that enhances their project's documentation.
 ![Untitled Video November 30, 2024 6_54 PM](https://github.com/user-attachments/assets/9d5ea989-9c7e-4f44-a884-79f7ec34d2bf)
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/e9d74387-6c64-4f89-9019-a802d801982f">

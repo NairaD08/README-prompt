@@ -32,6 +32,7 @@ const questions = [
 ];
 
 // Generate README content here
+
 function generateREADME(answers) {
   return `
 # ${answers.title}

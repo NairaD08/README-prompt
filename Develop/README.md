@@ -1,23 +1,23 @@
 
-# Naira's Project 1
+# Naira's project
 
 ## Description
-Here goes my project description
+Naira's project is designed to teach Node apps
 
 ## Installation
-Please follow the steps below for instructions
+Please follow along
 
 ## Usage
-Here goes usage information
+Usage info goes here
 
 ## Contributing
-Here are the guidelines
+Follow the guidelines
 
 ## Tests
-test instructions
+test
 
 ## License
 This project is licensed under the Apache 2.0 license.
 
 ## Questions
-If you have any questions, please contact me at [naira.davtyan08@gmail.com](mailto:naira.davtyan08@gmail.com). You can find more of my work at [nairaD08](https://github.com/nairaD08).
+If you have any questions, please contact me at [Naira.davtyan08@gmail.com](mailto:Naira.davtyan08@gmail.com). You can find more of my work at [NairaD08](https://github.com/NairaD08).
